@@ -256,12 +256,3 @@ Each step is handled by a separate microservice.
 - Optimize workflow ordering
 
 ---
-
-## 🧩 13. Final Thought
-
-Explicitly modeling business processes makes systems:
-- More understandable
-- More scalable
-- More resilient
-
----
